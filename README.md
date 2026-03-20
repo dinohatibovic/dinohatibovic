@@ -35,7 +35,7 @@ Everything documented here was learned and built independently through hands-on 
 - **Live:** [eu-funds-and-grants-ai.onrender.com](https://eu-funds-and-grants-ai.onrender.com)
 - 72 commits · 42 Render deployments · JWT auth · Stripe integration · 3072-dim embeddings
 
-### ⚛️ [Quantum Computing Experiments](https://github.com/dinohatibovic/quantum-experiments)
+
 > Real quantum hardware — not simulators. IBM Heron-generation processors.
 
 | Experiment | Hardware | Result |
