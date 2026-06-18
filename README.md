@@ -52,6 +52,8 @@ Everything documented here was learned and built independently through hands-on 
 
 ## 🛠️ Tech Stack
 ```
+* **Quantum Error Mitigation:** Qiskit Paulice (Spacetime codes for hardware-efficient error detection)
+
 Quantum    │ Qiskit · OpenQASM 2.0 · IBM Quantum Runtime (SamplerV2) · AerSimulator
 AI / ML    │ LangChain · LangGraph · ChromaDB · Gemini API · RAG · Prompt Engineering
 Backend    │ Python · FastAPI · Node.js · REST API · JWT · Docker · Uvicorn
