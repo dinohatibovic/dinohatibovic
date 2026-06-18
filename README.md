@@ -40,10 +40,10 @@ Everything documented here was learned and built independently through hands-on 
 
 | Experiment | Hardware | Result |
 |---|---|---|
-| BB84 QKD Protocol | ibm_fez (156q) | QBER < 11% ✅ |
+| BB84 QKD Protocol | ibm_fez (156q) | No-Cloning proven · Eve QBER 49% (82× degradation) ✅ |
 | Bell State Entanglement | ibm_fez (156q) | >95.5% fidelity ✅ |
 | VQE H₂ Simulation | ibm_fez (156q) | -1.8514 Hartree ✅ |
-| QRNG (2 / 4 / 8-qubit) | ibm_fez + ibm_torino | ~25% uniform ✅ |
+| QRNG 8-bit | ibm_fez | 10/10 unique values · range 16–254 ✅ |
 
 ### 🌐 [Web CV Resume](https://dinohatibovic.github.io/Web-CV-Resume/)
 > Premium cyberpunk-aesthetic web CV — HTML5 · Tailwind CSS · scroll animations
