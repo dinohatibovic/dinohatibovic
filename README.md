@@ -22,7 +22,7 @@ Everything documented here was learned and built independently through hands-on 
 - 🤖 **AI / RAG Systems** — Live enterprise app for EU grants in Bosnia & Herzegovina
 - ☁️ **Google Cloud Developer** — 21 badges, Gemini Enterprise Agent Ready, Firebase Studio
 - 📜 **IBM Certified** — Develop Generative AI Applications (Coursera, Jan 2026)
-- 🔒 **Security Research** — Microsoft Bug Bounty (Copilot AI Jailbreaking, VULN-170868)
+- 🔒 **Security Research** — reported VULN-170868
 
 ---
 
