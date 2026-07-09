@@ -41,7 +41,7 @@ Everything documented here was learned and built independently through hands-on 
 | Experiment | Hardware | Result |
 |---|---|---|
 | BB84 QKD Protocol | ibm_fez (156q) | No-Cloning proven · Eve QBER 49% (82× degradation) ✅ |
-| Bell State Entanglement | ibm_fez (156q) | >95.5% fidelity ✅ |
+| Bell State Entanglement | ibm_fez (156q) | >96.3% fidelity ✅ |
 | VQE H₂ Simulation | ibm_fez (156q) | -1.196080 Hartree ✅ |
 | QRNG 8-bit | ibm_fez | 10/10 unique values · range 16–254 ✅ |
 
