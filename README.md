@@ -42,7 +42,7 @@ Everything documented here was learned and built independently through hands-on 
 |---|---|---|
 | BB84 QKD Protocol | ibm_fez (156q) | No-Cloning proven · Eve QBER 49% (82× degradation) ✅ |
 | Bell State Entanglement | ibm_fez (156q) | >95.5% fidelity ✅ |
-| VQE H₂ Simulation | ibm_fez (156q) | -1.8514 Hartree ✅ |
+| VQE H₂ Simulation | ibm_fez (156q) | -1.196080 Hartree ✅ |
 | QRNG 8-bit | ibm_fez | 10/10 unique values · range 16–254 ✅ |
 
 ### 🌐 [Web CV Resume](https://dinohatibovic.github.io/Web-CV-Resume/)
@@ -73,7 +73,7 @@ Tools      │ Git · WSL2 · PowerShell · VS Code · Qiskit Composer
 | Firebase Studio Developer Community | Google | Jun 2025 |
 | Google Developer Program Premium Tier | Google | Jan 2026 |
 | Grounded Agents with Firebase Data Connect | Google | Nov 2025 |
-| Bug Bounty — VULN-170868 (Copilot AI) | Microsoft | 2025 |
+| Security Research — VULN-170868 (reported MSRC-u) | Microsoft | 2025
 | 8 Verified Jobs on IBM Heron Processors | IBM Quantum | Jan 2026 |
 
 ---
