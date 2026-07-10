@@ -73,7 +73,6 @@ Tools      │ Git · WSL2 · PowerShell · VS Code · Qiskit Composer
 | Firebase Studio Developer Community | Google | Jun 2025 |
 | Google Developer Program Premium Tier | Google | Jan 2026 |
 | Grounded Agents with Firebase Data Connect | Google | Nov 2025 |
-| Security Research — VULN-170868 (reported MSRC-u) | Microsoft | 2025
 | 8 Verified Jobs on IBM Heron Processors | IBM Quantum | Jan 2026 |
 
 ---
