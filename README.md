@@ -79,9 +79,12 @@ Tools     │ Git · Termux/Linux · VS Code · Qiskit Composer
 
 ---
 
-## GitHub Stats
+## Activity & Proof
 
-![Dino's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinohatibovic&show_icons=true&theme=dark&hide_border=true)
+- Profile: [GitHub overview](https://github.com/dinohatibovic)
+- Repositories: [Public repositories](https://github.com/dinohatibovic)
+- Portfolio: [Web CV Resume](https://dinohatibovic.github.io/Web-CV-Resume/)
+- Main proof projects: [IBM Quantum Experiments](https://github.com/dinohatibovic/IBM-Quantum-Experiments) and [FinAssistBH](https://github.com/dinohatibovic/EU_Funds_and_Grants_AI)
 
 ---
 
