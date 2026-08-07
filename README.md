@@ -6,10 +6,10 @@
 
 **Bosnia and Herzegovina 🇧🇦**
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://ba.linkedin.com/in/dinohatibovic)
-https://img.shields.io/badge/g.dev-4285F4?style=for-the-badge&logo=google&logoColor=white](https://g.dev/hatibovic)
-https://img.shields.io/badge/ORCID-0009--0009--5351--6901-A6CE39?style=for-the-badge&logo=orcid&logoColor=white](https://orcid.org/0009-0009-5351-6901)
-https://img.shields.io/badge/Web_CV-111827?style=for-the-badge&logo=githubpages&logoColor=white](https://dinohatibovic.github.io/Web-CV-Resume/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ba.linkedin.com/in/dinohatibovic)
+[![g.dev](https://img.shields.io/badge/g.dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/hatibovic)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--5351--6901-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-5351-6901)
+[![Web CV](https://img.shields.io/badge/Web_CV-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://dinohatibovic.github.io/Web-CV-Resume/)
 
 </div>
 
