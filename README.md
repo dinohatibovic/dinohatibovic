@@ -1,83 +1,85 @@
 <div align="center">
 
 # Dino Hatibović
-### AI Engineer · Quantum Computing Researcher · Google Cloud Developer
 
-**Tešanj, Bosnia and Herzegovina 🇧🇦**
+### AI & Quantum Developer · RAG Systems · Qiskit · Google Cloud
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinohatibovic)
-[![Google Dev](https://img.shields.io/badge/g.dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/hatibovic)
-[![IBM Quantum](https://img.shields.io/badge/IBM_Quantum-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://quantum.ibm.com)
+**Bosnia and Herzegovina 🇧🇦**
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://ba.linkedin.com/in/dinohatibovic)
+https://img.shields.io/badge/g.dev-4285F4?style=for-the-badge&logo=google&logoColor=white](https://g.dev/hatibovic)
+https://img.shields.io/badge/ORCID-0009--0009--5351--6901-A6CE39?style=for-the-badge&logo=orcid&logoColor=white](https://orcid.org/0009-0009-5351-6901)
+https://img.shields.io/badge/Web_CV-111827?style=for-the-badge&logo=githubpages&logoColor=white](https://dinohatibovic.github.io/Web-CV-Resume/)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-Self-taught developer and researcher working at the intersection of AI and quantum computing.
-Everything documented here was learned and built independently through hands-on practice.
+I am a self-taught AI & Quantum Developer from Bosnia and Herzegovina, focused on learning by building.
 
-- ⚛️ **Quantum Computing** — 8 real jobs executed on IBM Heron hardware (ibm_fez 156q, ibm_torino 133q)
-- 🤖 **AI / RAG Systems** — Live enterprise app for EU grants in Bosnia & Herzegovina
-- ☁️ **Google Cloud Developer** — 21 badges, Gemini Enterprise Agent Ready, Firebase Studio
-- 📜 **IBM Certified** — Develop Generative AI Applications (Coursera, Jan 2026)
-- 🔒 **Security Research** — reported VULN-170868
+My portfolio is proof-first: working demos, public repositories, reproducible outputs, and clear technical documentation. I work with practical AI/RAG systems, Python tooling, and quantum computing experiments built around Qiskit and IBM Quantum hardware.
+
+- AI/RAG systems for search, grant discovery, and document intelligence
+- Reproducible IBM Quantum experiments and Qiskit-based tooling
+- Python, FastAPI, JavaScript, Google Cloud, GitHub Pages, and Termux/Linux workflows
+- Independent learning documented through code, commits, pull requests, and public project artifacts
 
 ---
 
-## 🔑 Key Projects
+## Key Projects
 
-### 🧠 [EU Funds & Grants AI](https://github.com/dinohatibovic/EU_Funds_and_Grants_AI)
-> RAG-powered AI platform democratising access to EU grants in Bosnia & Herzegovina
+### IBM Quantum Experiments
+> Verified Bell state, BB84 QKD, and VQC experiments on IBM Quantum hardware.
 
-- **Stack:** Python · FastAPI · ChromaDB · Gemini 2.0 Flash · LangChain · LangGraph · Docker
-- **Live:** [eu-funds-and-grants-ai.onrender.com](https://eu-funds-and-grants-ai.onrender.com)
-- 72 commits · 42 Render deployments · JWT auth · Stripe integration · 3072-dim embeddings
+- Repository: [IBM-Quantum-Experiments](https://github.com/dinohatibovic/IBM-Quantum-Experiments)
+- Topics: Qiskit, IBM Quantum, reproducibility, hardware experiment parsing
+- Output: processed metrics, figures, parser code, and DOI-linked research artifact
 
+### FinAssistBH / EU Funds & Grants AI
+> AI platform for EU and local grant discovery in Bosnia and Herzegovina.
 
-> Real quantum hardware — not simulators. IBM Heron-generation processors.
+- Repository: [EU_Funds_and_Grants_AI](https://github.com/dinohatibovic/EU_Funds_and_Grants_AI)
+- Live app: [FinAssistBH on Render](https://eu-funds-and-grants-ai.onrender.com)
+- Focus: RAG-powered grant search for Bosnia and Herzegovina
+- Stack: Python, FastAPI, vector search, Gemini, LangChain/LangGraph
 
-| Experiment | Hardware | Result |
+### Web CV Resume
+> Proof-first personal portfolio website.
+
+- Live: [Web-CV-Resume](https://dinohatibovic.github.io/Web-CV-Resume/)
+- Repository: [Web-CV-Resume](https://github.com/dinohatibovic/Web-CV-Resume)
+- Focus: portfolio positioning, proof links, certificate verification, responsive web CV
+- Stack: HTML, Tailwind CSS, JavaScript, GitHub Pages
+
+---
+
+## Tech Stack
+
+~~~text
+Quantum   │ Qiskit · IBM Quantum · OpenQASM · AerSimulator
+AI / RAG  │ LangChain · LangGraph · Gemini API · Vector Search · Prompt Engineering
+Backend   │ Python · FastAPI · REST APIs · Uvicorn
+Cloud     │ Google Cloud · Firebase · Render · GitHub Pages
+Frontend  │ HTML5 · Tailwind CSS · JavaScript · TypeScript
+Tools     │ Git · Termux/Linux · VS Code · Qiskit Composer
+~~~
+
+---
+
+## Certifications & Learning
+
+| Credential | Issuer | Notes |
 |---|---|---|
-| BB84 QKD Protocol | ibm_fez (156q) | No-Cloning proven · Eve QBER 49% (82× degradation) ✅ |
-| Bell State Entanglement | ibm_fez (156q) | >96.3% fidelity ✅ |
-| VQE H₂ Simulation | ibm_fez (156q) | -1.196080 Hartree ✅ |
-| QRNG 8-bit | ibm_fez | 10/10 unique values · range 16–254 ✅ |
-
-### 🌐 [Web CV Resume](https://dinohatibovic.github.io/Web-CV-Resume/)
-> Premium cyberpunk-aesthetic web CV — HTML5 · Tailwind CSS · scroll animations
+| Develop Generative AI Applications | IBM / Coursera | Verified certificate |
+| Gemini Enterprise Agent Ready | Google | AI/agent learning path |
+| Firebase Studio Developer Community | Google | Firebase and app tooling |
+| Google Developer Program Premium Tier | Google | Google developer profile |
 
 ---
 
-## 🛠️ Tech Stack
-```
-* **Quantum Error Mitigation:** Qiskit Paulice (Spacetime codes for hardware-efficient error detection)
-
-Quantum    │ Qiskit · OpenQASM 2.0 · IBM Quantum Runtime (SamplerV2) · AerSimulator
-AI / ML    │ LangChain · LangGraph · ChromaDB · Gemini API · RAG · Prompt Engineering
-Backend    │ Python · FastAPI · Node.js · REST API · JWT · Docker · Uvicorn
-Cloud      │ Google Cloud Platform · Firebase · IBM Cloud · Render · GitHub Pages
-Frontend   │ HTML5 · Tailwind CSS · JavaScript · TypeScript
-Tools      │ Git · WSL2 · PowerShell · VS Code · Qiskit Composer
-```
-
----
-
-## 🏆 Certifications & Achievements
-
-| Badge | Issuer | Date |
-|---|---|---|
-| Develop Generative AI Applications | IBM / Coursera | Jan 2026 |
-| Gemini Enterprise Agent Ready | Google | Feb 2026 |
-| Firebase Studio Developer Community | Google | Jun 2025 |
-| Google Developer Program Premium Tier | Google | Jan 2026 |
-| Grounded Agents with Firebase Data Connect | Google | Nov 2025 |
-| 8 Verified Jobs on IBM Heron Processors | IBM Quantum | Jan 2026 |
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Dino's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinohatibovic&show_icons=true&theme=dark&hide_border=true)
 
@@ -85,7 +87,6 @@ Tools      │ Git · WSL2 · PowerShell · VS Code · Qiskit Composer
 
 <div align="center">
 
-*"Quantum computing is not part of my formal education.*
-*Everything in this portfolio was learned and implemented entirely through independent research."*
+*"Quantum computing is not part of my formal education. Everything here was learned by building, testing, documenting, and improving in public."*
 
 </div>
