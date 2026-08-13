@@ -70,12 +70,26 @@ Tools     │ Git · Termux/Linux · VS Code · Qiskit Composer
 
 ## Certifications & Learning
 
-| Credential | Issuer | Notes |
+### Coursera Certifications
+
+| Credential | Issuer | Status |
 |---|---|---|
-| Develop Generative AI Applications | IBM / Coursera | Verified certificate |
-| Gemini Enterprise Agent Ready | Google | AI/agent learning path |
-| Firebase Studio Developer Community | Google | Firebase and app tooling |
-| Google Developer Program Premium Tier | Google | Google developer profile |
+| [Google AI Professional Certificate](https://coursera.org/verify/professional-cert/TFI5K2Z4U4T7) | Google / Coursera | 7-course Professional Certificate |
+| https://coursera.org/verify/6MY14ZPBG9IS | IBM / Coursera | Verified course certificate |
+| https://coursera.org/verify/TJ6KDEUNNBXR | IBM / Coursera | Verified course certificate |
+| [Vector Databases for RAG: An Introduction](https://coursera.org/verify/06F4Y6R55DN3) | IBM / Coursera | Verified course certificate |
+| [Advanced RAG with Vector Databases and Retrievers](https://coursera.org/verify/GYH6CAACFL9Z) | IBM / Coursera | Verified course certificate |
+| [Build Multimodal Generative AI Applications](https://coursera.org/verify/NYV0E5RI37Q3) | IBM / Coursera | Verified course certificate |
+| https://coursera.org/verify/BIR8NSXLD2UR | Google / Coursera | 90% |
+| https://coursera.org/verify/EWWVYT4L2LWC | Google / Coursera | 80% |
+| [AI for Research and Insights](https://coursera.org/verify/9C8BZX20IOJQ) | Google / Coursera | 83.33% |
+| [AI for Writing and Communicating](https://coursera.org/verify/BE0P4MTPFWSL) | Google / Coursera | 80% |
+| [AI for Content Creation](https://coursera.org/verify/ESRQ5EJJRCSP) | Google / Coursera | 80% |
+| [AI for Data Analysis](https://coursera.org/verify/JRYGKQPZAMWV) | Google / Coursera | 83.33% |
+| [AI for App Building](https://coursera.org/verify/HSPD5AE6ATZ2) | Google / Coursera | 100% |
+
+**Summary:** 13 verified Coursera credentials: 12 course certificates and 1 Google Professional Certificate.
+
 
 ---
 
