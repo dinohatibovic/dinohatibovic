@@ -92,8 +92,6 @@ Tools     │ Git · Termux/Linux · VS Code · Qiskit Composer
 
 Full certificate visuals and verification links are available in my Web CV and public project documentation.
 
-Full certificate visuals and verification links are available in my Web CV and public project documentation.
-
 
 ---
 
